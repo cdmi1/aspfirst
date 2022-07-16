@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\asp.net p\\template\\template\\template.csproj": {}
+    "D:\\asp.net p\\New folder\\aspfirst\\template\\template.csproj": {}
   },
   "projects": {
-    "D:\\asp.net p\\template\\template\\template.csproj": {
+    "D:\\asp.net p\\New folder\\aspfirst\\template\\template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\asp.net p\\template\\template\\template.csproj",
+        "projectUniqueName": "D:\\asp.net p\\New folder\\aspfirst\\template\\template.csproj",
         "projectName": "template",
-        "projectPath": "D:\\asp.net p\\template\\template\\template.csproj",
+        "projectPath": "D:\\asp.net p\\New folder\\aspfirst\\template\\template.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\asp.net p\\template\\template\\obj\\",
+        "outputPath": "D:\\asp.net p\\New folder\\aspfirst\\template\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",

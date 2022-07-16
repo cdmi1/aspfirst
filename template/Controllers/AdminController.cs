@@ -17,5 +17,10 @@ namespace template.Controllers
         {
             return View();
         }
+
+        public IActionResult demo()
+        {
+            return View();
+        }
     }
 }
